@@ -1,8 +1,5 @@
 # DQN vs PPO on Pong
 
-Programming Assignment 2 (PA2) for **AI 322 – Reinforcement Learning**,
-PhD in Artificial Intelligence, University of the Philippines.
-
 A comparison of two deep reinforcement learning algorithms — **Deep Q-Network
 (DQN)** and **Proximal Policy Optimization (PPO)** — trained to play the Atari
 game *Pong* via the Arcade Learning Environment.
