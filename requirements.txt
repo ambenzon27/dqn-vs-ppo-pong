@@ -1,0 +1,11 @@
+# DQN vs PPO on Pong — dependencies
+# Install with: pip install -r requirements.txt
+
+# Deep learning
+torch
+numpy
+matplotlib
+
+# Atari / Arcade Learning Environment
+gymnasium[atari]
+ale-py
